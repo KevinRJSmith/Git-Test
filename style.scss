@@ -1,20 +1,8 @@
-$blue: #a3d5d3;
-@import url('https://fonts.googleapis.com/css?family=Lobster');
 
 body {
-  background-image: url("http://www.nesta.org.uk/sites/default/files/medical-cross-symbols-against-blue-background.jpg")
+  margin: auto;
 }
 
 div {
-  height: 50px;
-  width: 100px;
-  border: 2px solid black;
-  border-radius: 0px 50px 50px 100px;
-  font-family: Lobster;
-  color: white;
-  background-color: black;
-}
-
-div h2 {
   margin: auto;
 }
